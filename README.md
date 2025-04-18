@@ -1,10 +1,11 @@
 # spring_demo
-Spring Boot Practice
+Spring Boot Application
 
 This project is primarily for tinkering with Spring Boot 
 as practice and "continuing education."
 
 # Features:
-- Simple Hello World with slight format tinkering on 
-	REST endpoint http://localhost:8080/greeting?name=JamesKirk
-  	Where the name parameter is optional.
+- Simple Spring Boot application that is a REST API that acts as a go-between the user and the 5E Dungeons & Dragons SRD API.
+https://5e-bits.github.io/docs/
+
+- Returns JSON objects with listings for MOnsters, Spells and Classes.
