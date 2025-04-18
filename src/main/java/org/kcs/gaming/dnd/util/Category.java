@@ -1,6 +1,6 @@
 package org.kcs.gaming.dnd.util;
 
-public enum GameElement {
+public enum Category {
 
 	MONSTERS,
 	SPELLS,
